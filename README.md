@@ -23,4 +23,5 @@ The focus is on **correct analytical logic**, not just visualization.
 - Visualized revenue distribution across plans
 
 ## Sample Visualization
-![MRR by Plan](screenshots/mrr_by_plan.png)
+![MRR by Plan](ScreenShots/mrr_by_plan.png)
+
